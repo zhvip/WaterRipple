@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="WaterRippleView">
+        <attr name="water_ripple_center_color" format="color"/>
+        <attr name="water_ripple_radius" format="integer"/>
+        <attr name="water_ripple_spread_color" format="color"/>
+        <attr name="water_ripple_spread_distance" format="integer"/>
+        <attr name="water_ripple_spread_max" format="integer"/>
+        <attr name="water_ripple_spread_delay" format="integer"/>
+    </declare-styleable>
+    
+    
+</resources>
